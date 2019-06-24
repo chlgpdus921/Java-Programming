@@ -1,8 +1,8 @@
 <h2> Java-Programming (Object-Oriented Programming)</h2>
 <h3> : Java an Introduction to Problem Solving and Programming(6th edition)by Walter savith </h3>
 <br>
-<strong> 1. Introduction </strong>
-<br>
+<strong> 1. Introduction </strong><br>
+
 <strong> 2. Basic Computation </strong>
 > Keyboard Input/Output
 
