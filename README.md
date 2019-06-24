@@ -1,19 +1,20 @@
 <h2> Java-Programming (Object-Oriented Programming)</h2>
 <h3> : Java an Introduction to Problem Solving and Programming(6th edition)by Walter savith </h3>
 <br>
-<strong> 1. Introduction <br></strong>
+<strong> 1. Introduction </strong>
 
-<strong> 2. Basic Computation </strong>
+
+<strong> 2. Basic Computation 
 > Keyboard Input/Output
 
-<strong> 3. Flow of Control </string>
+<strong> 3. Flow of Control 
 > if -else Statement <br>
 > switch Statement <br>
 > while Statement <br>
 > do-while Statement <br>
 > for Statement <br>
 
-<strong> 4. Class and Methods(1) </string>
+<strong> 4. Class and Methods(1) 
 > this <br>
 > Information Hiding/Encapsulation<br>
 > Accessor/Mutator methods<br>
