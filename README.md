@@ -2,9 +2,9 @@
 <h3> : Java an Introduction to Problem Solving and Programming(6th edition)by Walter savith </h3>
 <br>
 <strong> 1. Introduction </strong>
-<br> 
-<strong> 2. Basic Computation 
-> Keyboard Input/Output
+
+<strong> 2. Basic Computation </strong>
+> <strong> Keyboard Input/Output <br> </strong>
 
 <strong> 3. Flow of Control 
 > if -else Statement <br>
